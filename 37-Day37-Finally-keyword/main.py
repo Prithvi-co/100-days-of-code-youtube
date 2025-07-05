@@ -10,7 +10,7 @@ def func1():
 
   finally:
     print("I am always executed")
-  # print("I am always executed")
+  # print("I am always executed")    chahe function return bhi ho jaye phir bhi execute hoga finally
 
 
 x = func1()
