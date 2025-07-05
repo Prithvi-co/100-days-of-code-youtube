@@ -3,7 +3,7 @@ while i<7:
   print(i)
   i = i + 1
   # if i == 4:
-  #   break
+  #   break        #agar break kr rhe h toh else execute nhi hoga
 
 else:
   print("Sorry no i")
