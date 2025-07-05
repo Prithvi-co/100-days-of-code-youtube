@@ -4,7 +4,7 @@
 #   for i in range(1, 11):
 #     print(f"{int(a)} X {i} = {int(a)*i}")
 # except:
-#   print("Invalid  Input!")
+#   print("Invalid  Input!")    lines of code execute hote rhe isiliye krte h esa k error aaye toh bhi code ruke na aage wale
 
 # print("Some imp lines of code")
 # print("End of program")
@@ -17,4 +17,4 @@ except ValueError:
     print("Number entered is not an integer.")
     
 except IndexError:
-  print("Index Error")
+  print("Index Error")  # isko agar inde input galat diya toh show krega
